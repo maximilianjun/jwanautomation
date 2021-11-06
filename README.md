@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jwanautomation
 - 👀 I’m interested in front-end web development, anime, manga, martial arts and fitness.
-- 🌱 I’m currently learning how to make websites responsive.
+- 🌱 I’m currently a trainee software engineer whilst working full-time
 - 💞️ I’m looking to collaborate on basic projects.
 - 📫 How to reach me: linkedin.com/in/jun-wei-wan-324691204
 
