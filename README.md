@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jwanautomation
+- 👋 Hi, I’m @Jun
 - 👀 I’m interested in front-end web development, anime, manga, martial arts and fitness.
 - 🌱 I’m currently a trainee software engineer whilst working full-time
 - 💞️ I’m looking to collaborate on basic projects.
