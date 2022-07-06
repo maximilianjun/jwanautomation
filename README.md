@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Jun
-- 👀 I’m interested in front-end web development, anime, manga, martial arts and fitness.
+- 👀 I’m interested in front-end web development
 - 🌱 Aspiring software engineer whilst working full-time
 - 📫 How to reach me: linkedin.com/in/jun-wei-wan-324691204
 <!---
