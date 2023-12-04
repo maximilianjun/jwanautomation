@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Jun
-- 👀 I’m interested in Data Science
+- :computer: I’m interested in Data Science, technology, games, martial arts and philosphy
 - 🌱 Aspiring Data Analyst
 - 📫 How to reach me: N/A
 <!---
